@@ -1,8 +1,9 @@
+<link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap" rel="stylesheet"> 
 @font-face {
 font-family: 'Gilroy-Bold';
 src:url('https://democontainer.github.io/circle-life/lib/fonts/Gilroy/Gilroy-Bold.ttf');
 }
-
+font-family: 'Poppins', sans-serif;
 @font-face {
 font-family: 'Gilroy-Medium';
 src:url('https://democontainer.github.io/circle-life/lib/fonts/Gilroy/Gilroy-Medium.ttf');
@@ -56,6 +57,7 @@ src:url('https://democontainer.github.io/circle-life/lib/fonts/SF-Pro-Display/SF
 font-family: 'SF-Pro-SemiboldItalic';
 src:url('https://democontainer.github.io/circle-life/lib/fonts/SF-Pro-Display/SF-Pro-Display-SemiboldItalic.otf');
 }
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/

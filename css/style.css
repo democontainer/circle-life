@@ -1,60 +1,60 @@
 @font-face {
 font-family: 'Gilroy-Bold';
-src:url('../lib/fonts/Gilroy/Gilroy-Bold.ttf');
+src:url('https://democontainer.github.io/circle-life/lib/fonts/Gilroy/Gilroy-Bold.ttf');
 }
 
 @font-face {
 font-family: 'Gilroy-Medium';
-src:url('../lib/fonts/Gilroy/Gilroy-Medium.ttf');
+src:url('https://democontainer.github.io/circle-life/lib/fonts/Gilroy/Gilroy-Medium.ttf');
 }
 @font-face {
 font-family: 'Gilroy-Heavy';
-src:url('../lib/fonts/Gilroy/Gilroy-Heavy.ttf');
+src:url('https://democontainer.github.io/circle-life/lib/fonts/Gilroy/Gilroy-Heavy.ttf');
 }
 @font-face {
 font-family: 'Gilroy-Regular';
-src:url('../lib/fonts/Gilroy/Gilroy-Regular.ttf');
+src:url('https://democontainer.github.io/circle-life/lib/fonts/Gilroy/Gilroy-Regular.ttf');
 }
 
 @font-face {
 font-family: 'Gilroy-Light';
-src:url('../lib/fonts/Gilroy/Gilroy-Light.otf');
+src:url('https://democontainer.github.io/circle-life/lib/fonts/Gilroy/Gilroy-Light.otf');
 }
 @font-face {
 font-family: 'Poppins-Bold';
-src:url('../lib/fonts/Poppins/Poppins-Bold.ttf');
+src:url('https://democontainer.github.io/circle-life/lib/fonts/Poppins/Poppins-Bold.ttf');
 }
 @font-face {
 font-family: 'Poppins-Medium';
-src:url('../lib/fonts/Poppins/Poppins-Medium.ttf');
+src:url('https://democontainer.github.io/circle-life/lib/fonts/Poppins/Poppins-Medium.ttf');
 }
 @font-face {
 font-family: 'Poppins-Regular';
-src:url('../lib/fonts/Poppins/Poppins-Regular.ttf');
+src:url('https://democontainer.github.io/circle-life/lib/fonts/Poppins/Poppins-Regular.ttf');
 }
 @font-face {
 font-family: 'Poppins-SemiBold';
-src:url('../lib/fonts/Poppins/Poppins-SemiBold.ttf');
+src:url('https://democontainer.github.io/circle-life/lib/fonts/Poppins/Poppins-SemiBold.ttf');
 }
 @font-face {
 font-family: 'SF-Pro-Bold';
-src:url('../lib/fonts/SF-Pro-Display/SF-Pro-Display-Bold.otf');
+src:url('https://democontainer.github.io/circle-life/lib/fonts/SF-Pro-Display/SF-Pro-Display-Bold.otf');
 }
 @font-face {
 font-family: 'SF-Pro-Medium';
-src:url('../lib/fonts/SF-Pro-Display/SF-Pro-Display-Medium.otf');
+src:url('https://democontainer.github.io/circle-life/lib/fonts/SF-Pro-Display/SF-Pro-Display-Medium.otf');
 }
 @font-face {
 font-family: 'SF-Pro-Regular';
-src:url('../lib/fonts/SF-Pro-Display/SF-Pro-Display-Regular.otf');
+src:url('https://democontainer.github.io/circle-life/lib/fonts/SF-Pro-Display/SF-Pro-Display-Regular.otf');
 }
 @font-face {
 font-family: 'SF-Pro-Display-Heavy';
-src:url('../lib/fonts/SF-Pro-Display/SF-Pro-Display-Heavy.otf');
+src:url('https://democontainer.github.io/circle-life/lib/fonts/SF-Pro-Display/SF-Pro-Display-Heavy.otf');
 }
 @font-face {
 font-family: 'SF-Pro-SemiboldItalic';
-src:url('../lib/fonts/SF-Pro-Display/SF-Pro-Display-SemiboldItalic.otf');
+src:url('https://democontainer.github.io/circle-life/lib/fonts/SF-Pro-Display/SF-Pro-Display-SemiboldItalic.otf');
 }
 /*--------------------------------------------------------------
 # General

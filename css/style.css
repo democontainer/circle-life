@@ -10,6 +10,8 @@ src:url('https://democontainer.github.io/circle-life/lib/fonts/Gilroy/Gilroy-Med
 }
 @font-face {
 font-family: 'Gilroy-Heavy';
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+font-family: 'Poppins', sans-serif;
 src:url('https://democontainer.github.io/circle-life/lib/fonts/Gilroy/Gilroy-Heavy.ttf');
 }
 @font-face {
@@ -122,7 +124,8 @@ li{
 	display:block;
 	font-size:12px;
 	line-height:18px;
-	font-family: 'Poppins-SemiBold';
+	font-family: 'Poppins', sans-serif;
+	font-weight:600;
 	color:#fff;
 }
 .mr-70{
@@ -208,7 +211,7 @@ section#head-sect {
 
 }
 .header-bg{
-    background-image: url(../images/bg2.png);
+    background-image: url(https://democontainer.github.io/circle-life/images/bg2.png);
     background-repeat: no-repeat;
     background-position: top right;
     background-size: 80% 101%;
@@ -571,7 +574,7 @@ p.prd-ln2 {
 }
 .products-right {
 	padding-left: 200px;
-    background: url(../images/prod-bg.png) no-repeat;
+    background: url(https://democontainer.github.io/circle-life/images/prod-bg.png) no-repeat;
     background-size: auto;
     background-position: 37% 10%;
     padding-top: 62px;
@@ -745,7 +748,8 @@ text-align: center;
     font-size: 16px;
     margin-top: 25px;
     color: #080940;
-	font-family:"Poppins-Bold";
+	font-family: 'Poppins', sans-serif;
+	font-weight:700;
 	margin-bottom:16px;
 }
 
@@ -800,7 +804,8 @@ section#contact-us {
 	display:block;
 	font-size:12px;
 	line-height:18px;
-	font-family: 'Poppins-SemiBold';
+	font-family: 'Poppins', sans-serif;
+	font-weight:600;
 	color:#fff;
 }
 .contact-right {
@@ -838,7 +843,8 @@ section#faq{
 	line-height:20px;
 	color:#080940;
 	opacity:0.8;
-	font-family:'Poppins-Bold';
+	font-family: 'Poppins', sans-serif;
+	font-weight:700;
 	max-width: 236px;
 }
 .fag-block p{
@@ -900,7 +906,8 @@ p.testi-txt {
 p.author {
     font-size: 13px;
     color: #020202;
-	font-family:'Poppins-Bold';
+	font-family: 'Poppins', sans-serif;
+	font-weight:700;
 	padding-bottom:0px;
 }
 .testimonial-right{

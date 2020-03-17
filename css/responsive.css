@@ -5,16 +5,25 @@
     color: #0B013A;
 
 } */
+.custom-container {
+    max-width: 1246px;
+}
 .head-r-img{
 	max-width:200px;
 	    top: 0;
     right: 5%;
+}
+.cust-testmnl{
+	    padding-left: 9rem;
 }
 }
 @media (max-width: 1370px) {
 	.msg-bx {
 		  right: 49%;
 	}
+	.cust-testmnl {
+    padding-left: 7rem;
+}
 }
 @media (max-width: 1280px) {
 	.card3{
@@ -23,6 +32,18 @@
 	.testi-block{
 		    margin-left: 20px;
 	}
+	.products-right {
+    padding-left: 85px;
+	}
+	.cust-testmnl {
+    padding-left: 5rem;
+}
+.testi-block {
+    max-width: 266px;
+}
+.card1,.card2,.card3 {
+    max-width: 202px;
+}
 }
 @media (max-width: 1024px) {
 	.header-bg{
@@ -42,6 +63,7 @@ section#about{
 .testi-block {
     margin-top: 20px;
 }
+
 }
 @media (max-width: 768px) {
 	.block{
@@ -80,8 +102,25 @@ section#about{
 	    padding-left: 2rem;
     padding-right: 2rem;
 }
-
-
+.products-right {
+    padding-left: 0;
+    text-align: center;
+    display: flex;
+}
+.card3{
+	right:0;
+	top: 0;
+}
+.card3,.card2{
+	position:relative;
+	margin-top:0;
+}
+.cust-testmnl {
+    flex-direction: column;
+}
+.top-nav ul{
+	justify-content: flex-start;
+}
 }
 @media screen and (max-width: 991px) and (min-width: 768px) {
 .block p {
@@ -93,6 +132,13 @@ section#about{
 	.top-nav ul{
 		    justify-content: flex-start;
 	}
+	.f-logo {
+    margin-bottom: 30px;
+}
+footer {
+    padding: 2rem 0rem;
+    text-align: center;
+}
 }
 @media (max-width: 480px) {
 	.top-nav ul{
@@ -118,12 +164,28 @@ section#about{
 .news-right h3 {
 font-size: 32px;
 }
+.products-right{
+	display:block;
+}
 .card2{
 	margin-left:0;
 }
 .card3{
 	position:relative;
 	top:10px;
+}
+.card1, .card2, .card3 {
+    max-width: 248px;
+    margin: 10px auto;
+}
+.contact-us-left ul li div{
+	display:block;
+}
+.testi-block {
+    max-width: 100%;
+}
+.cust-testmnl {
+    padding-left: 3rem;
 }
 .block {
     text-align: center;
@@ -167,10 +229,7 @@ font-size: 32px;
     height: 130px;
     justify-content: center;
 }
-footer {
-    padding: 2rem 0rem;
-    text-align: center;
-}
+
 .cust-height img{
 	height:auto;
 }

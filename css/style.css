@@ -712,6 +712,7 @@ text-align: center;
 }
 .head-sect span{
 	font-family:'SF-Pro-Bold';
+	font-weight: 700;
 }
 .side-pattern{
 	position: absolute;

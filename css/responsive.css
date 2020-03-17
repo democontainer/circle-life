@@ -172,11 +172,10 @@ font-size: 32px;
 }
 .card3{
 	position:relative;
-	top:10px;
 }
 .card1, .card2, .card3 {
     max-width: 248px;
-    margin: 10px auto;
+    margin: 20px auto;
 }
 .contact-us-left ul li div{
 	display:block;
